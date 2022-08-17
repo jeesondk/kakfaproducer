@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "a7EK5mBATEyML6PS63h8GCQUURyP4de4ikPrpCGlQ6po3NAl8O33Agaayk+aB85K+m4uZPyopVlOfUOR5AfjuQ==",
+  "success": true,
+  "projectFilePath": "D:\\src\\CSharp\\kafka\\KafkaProducer\\KafkaProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeeso\\.nuget\\packages\\confluent.kafka\\1.8.0\\confluent.kafka.1.8.0.nupkg.sha512",
+    "C:\\Users\\jeeso\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
+    "C:\\Users\\jeeso\\.nuget\\packages\\librdkafka.redist\\1.8.0\\librdkafka.redist.1.8.0.nupkg.sha512",
+    "C:\\Users\\jeeso\\.nuget\\packages\\protobuf\\2.6.1.1\\protobuf.2.6.1.1.nupkg.sha512",
+    "C:\\Users\\jeeso\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
